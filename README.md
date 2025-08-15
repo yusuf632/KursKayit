@@ -1,6 +1,4 @@
-🎓 Proje Tanımı (Sadık Turan tarafından öğrendim)
-
-Bu proje, ASP.NET Core MVC teknolojisiyle geliştirilmiş modern bir kurs kayıt sistemidir. Öğrencilerin kurslara kayıt olabileceği ve eğitmenlerin içerik yönetimi yapabileceği entegre bir çözüm sunar.
+🎓 Proje Tanımı: Bu proje, ASP.NET Core MVC teknolojisiyle geliştirilmiş modern bir kurs kayıt sistemidir. Öğrencilerin kurslara kayıt olabileceği ve eğitmenlerin içerik yönetimi yapabileceği entegre bir çözüm sunar.
 
 🛠 Teknoloji Yığını
 
